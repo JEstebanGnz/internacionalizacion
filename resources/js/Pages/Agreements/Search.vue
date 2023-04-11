@@ -139,14 +139,6 @@
                                             >
                                                 <v-icon>mdi-arrow-down</v-icon>
                                             </v-btn>
-                                            <v-btn
-                                                large
-                                                depressed
-                                                color="#0f1f39"
-                                                :value="true"
-                                            >
-                                                <v-icon>mdi-arrow-down</v-icon>
-                                            </v-btn>
                                         </v-btn-toggle>
                                     </div>
                                 </v-col>
